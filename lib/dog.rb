@@ -1,4 +1,4 @@
-÷
+
 
 class Dog   
   def initialize(pups_name, pups_breed = "Mutt")  
